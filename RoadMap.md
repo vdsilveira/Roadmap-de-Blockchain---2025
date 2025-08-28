@@ -1,4 +1,4 @@
-# 🚀 Roadmap de Blockchain por Funções
+# 🚀 Roadmap de Blockchain - 2025
 
 Este roadmap tem como objetivo **elencar alguns conhecimentos e stacks esperados por função** dentro do universo blockchain.  
 Ele não pretende abranger todas as habilidades necessárias, **nem está associado a definições formais de cargos**.  
@@ -20,7 +20,8 @@ Apenas evite apagar o que outros já adicionaram — a ideia é somar.
 
 Bons estudos e boas construções! 🚀
 ---
-
+![image](https://green-major-sloth-814.mypinata.cloud/ipfs/bafkreiaupsgkh4y2uz7m32brz6wywd7shjzi72a4va5y7ldnc5qljmh5n4)
+---
 
 ## 👨‍💻 Estagiário
 **Objetivo:** Entender conceitos básicos e o ecossistema blockchain.  
