@@ -36,11 +36,25 @@ Bons estudos e boas construções! 🚀
 ---
 
 
-# <span style="font-family: 'Bungee', cursive; font-weight: bold;  "> Trilhas 
+# <span style="font-family: 'Bungee', cursive; font-weight: bold;  "> Trilhas de carreiras 
 
 # 1 - [Trilha DEV Blockchain - Redes EVM](./trilha%20_DEV_Blockchain_EVM.md)
+# 2- [Trilha DEV Blockchain - Hyperledger Fabric](...)
+# 3- [Trilha DEV Blockchain -  Hyperledger indy](...)
+# 4- [Trilha DEV Backend](...)
+# 5- [Trilha DEV Fronted](...)
+# 6- [Trilha DEV DevOps](...)
 
-# 2- [Trilha IDD](...)
+</span>
+
+#  <span style="font-family: 'Bungee', cursive; font-weight: bold;  "> Trilhas de Produtos 
+
+
+
+
+
+# 3- [Trilha IDD](...)
+
 
 </span>
 
